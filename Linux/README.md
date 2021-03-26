@@ -4,6 +4,7 @@ The files linked in this repository represent a variety of successfully complete
 
 ### Example of Basic Data Manipulation and Analysis Using a Casino Fraud Case Study
 Concepts deployed in this exercise: Piped commands
+
 Commands deployed in this exercise: wget, grep, awk, sed
 https://docs.google.com/document/d/1l3M9f6Y2uSzZtj_Dili1qG_xVqLbtGK8JNEifqXDHJA/
 
