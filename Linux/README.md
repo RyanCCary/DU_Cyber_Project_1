@@ -3,7 +3,7 @@
 The files linked in this repository represent a variety of successfully completed Unversity of Denver Cybersecurity certificate program assignments and tasks across a spectrum of Linux management and scripting scenarios. 
 
 ### Example of Basic Data Manipulation and Analysis Using a Casino Fraud Case Study
-Concepts deployed in this exercise: Piped commands
+Concepts deployed in this exercise: piped commands
 
 Commands deployed in this exercise: wget, grep, awk, sed
 
