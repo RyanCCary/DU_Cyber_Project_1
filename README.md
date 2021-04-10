@@ -1,6 +1,6 @@
 ## University of Denver System Cybersecurity Administration Portfolio
 
-The content in this repository reflects system cyber administration lessons and work I completed during University of Denver's 24-week Cybersecurity Bootcamp certificate program. Details on the program are available at https://bootcamp.du.edu/cybersecurity/.
+This repository content reflects system cybersecurity lessons and work I completed related to Azure network, Ansible, and Linux systems administration during University of Denver's 24-week Cybersecurity Bootcamp certificate program. Details on the program are available at https://bootcamp.du.edu/cybersecurity/.
 
 Sections include:
 
