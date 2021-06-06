@@ -1,4 +1,5 @@
 ## Penetration Testing
+
 This presentation documents a penetration testing exercise against an Apache web server on an Azure network, including the execution of a PHP-based reverse shell script and the identification of other exploitable vulnerabilities, including an OPTIONS HTTP Request misconfiguration.
 
 The presentation features the following sections:
