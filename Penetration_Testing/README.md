@@ -1,6 +1,6 @@
 ## Penetration Testing
 
-This presentation documents a penetration test against an Apache web server on an Azure network, including the execution of a PHP-based reverse shell script and the identification of an OPTIONS HTTP Request misconfiguration alongside other vulnerabilities.
+This presentation documents a penetration test against an Apache web server on an Azure network, including the execution of a PHP reverse shell script and the identification of an OPTIONS HTTP Request misconfiguration alongside other vulnerabilities.
 
 The presentation features the following sections:
 - Network Topology
