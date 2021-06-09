@@ -7,3 +7,4 @@ Sections include:
 - Ansible: An overview of an Azure-platformed network with Linux virtual machines configured and managed via Ansible and Docker containers.
 - Linux: A collection of assignments and scripts demonstrating the application of various system administration and data management concepts.
 - Diagrams: A repository of technical diagrams I created to further explain different elements of my work within the program.
+- Penetration Testing: A presentation documenting a penetration test against an Apache web server on an Azure network.
